@@ -804,7 +804,7 @@ faca_alguma_coisa until alguma_condicao
 
 ```Ruby
 # mau
-being
+begin
   puts val
   val += 1
 end while val < 0
