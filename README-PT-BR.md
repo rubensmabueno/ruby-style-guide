@@ -344,7 +344,7 @@ def algum_metodo (arg1=:default, arg2=nil, arg3=[])
 end
 
 # bom
-def algum_metodo (arg1 =: default, arg2 = nil, arg3 = [])
+def algum_metodo (arg1 = :default, arg2 = nil, arg3 = [])
   # fazer alguma coisa...
 end
 ```
