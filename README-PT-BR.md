@@ -48,8 +48,8 @@ Traduções do guia estão disponíveis nos seguintes idiomas:
 
 ## Tabela de conteúdos
 
-* [Layout do código fonte](#source-code-layout)
-* [Sintaxe](#syntax)
+* [Layout do código fonte](#layout-do-código-fonte)
+* [Sintaxe](#sintaxe)
 * [Nomenclatura](#naming)
 * [Comentários](#comments)
   * [Anotações em Comentário](#comment-annotations)
