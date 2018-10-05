@@ -375,7 +375,7 @@ long_string = 'Primeira parte da longa cadeia de caracteres' \
 um.dois.tres.
   quatro
 
-# bom - é imediatamente evidente o que está acontecendo a segunda linha
+# bom - é imediatamente evidente o que está acontecendo na segunda linha
 um.dois.tres
   .quatro
 ```
